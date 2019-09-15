@@ -52,7 +52,7 @@ namespace AlgorthimsClass1
             }
         }
 
-        public void AddValueToCSV(/*int ID, double randomDouble, string filePath*/)
+        public void AddValueToCSV()
         {
             MyInts();
             MyDoubles();
